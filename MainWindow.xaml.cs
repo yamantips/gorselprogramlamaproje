@@ -59,4 +59,22 @@ namespace harun
                     btn.Background = new SolidColorBrush(Colors.Green);
 
                 }
+                btn.Width = 100;
+                btn.Height = 50;
+                btn.Content = "Mezar " + (i + 1).ToString();
+                btn.Click += new RoutedEventHandler(bnt_Click);
+                if (i >= 0 && i <= 10)
+                {
+                    panel.Children.Add(btn);
+                }
+                else if (i >= 11 && i <= 20)
+                { panel2.Children.Add(btn); }
+                else if (i >= 21 && i <= 30)
+                { panel3.Children.Add(btn); }
+                else if (i >= 31 && i <= 40)
+                { panel4.Children.Add(btn); }
+                else if (i >= 41 && i <= 50)
+                { panel5.Children.Add(btn); }
+
+
             }
