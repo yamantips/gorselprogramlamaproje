@@ -78,3 +78,48 @@ namespace harun
 
 
             }
+        }
+
+        private void Window_Initialized(object sender, EventArgs e)
+        {
+            olustur();
+        }
+
+        void bnt_Click(object sender, RoutedEventArgs e)
+        {
+            string id;
+            Button btnn = (Button)sender;
+            id = btnn.Tag.ToString();
+
+            txtmezar.Text = id;
+            //MessageBox.Show("Button pressed " + buttonThatWasClicked.Tag.ToString());
+
+
+
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+
+            baglanti.Close();
+            baglanti.Open();
+            string komut = "insert into tbluye(UMID,UAD,UDOGUMTAR,UOLUMTAR) values('" + txtmezar.Text + "', '" + txtad.Text + "', '" + dtp.DisplayDate + "', '" + dtp2.DisplayDate + "')";
+            MySqlCommand kmt = new MySqlCommand(komut, baglanti);
+            kmt.ExecuteNonQuery();
+            olustur();
+
+
+
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            baglanti.Close();
+            baglanti.Open();
+            string komut = "delete from tbluye where UMID='" + txtmezar.Text + "' ";
+            MySqlCommand kmt = new MySqlCommand(komut, baglanti);
+            kmt.ExecuteNonQuery();
+            olustur();
+        }
+    }
+}
