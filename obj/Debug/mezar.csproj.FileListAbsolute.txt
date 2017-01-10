@@ -1,0 +1,62 @@
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\bin\Debug\Vural.exe.config
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\bin\Debug\Vural.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\bin\Debug\Vural.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\bin\Debug\MySql.Data.dll
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\MainWindow.g.cs
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\App.g.cs
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural_MarkupCompile.cache
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural_MarkupCompile.lref
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\MainWindow.baml
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.g.resources
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.Properties.Resources.resources
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\mezar.csproj.GenerateResource.Cache
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.pdb
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\bin\Debug\Vural.exe.config
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural.exe
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural.pdb
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\bin\Debug\Vural.exe
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\bin\Debug\Vural.pdb
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\bin\Debug\MySql.Data.dll
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\mezar.csprojResolveAssemblyReference.cache
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\MainWindow.g.cs
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\App.g.cs
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural_MarkupCompile.cache
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural_MarkupCompile.lref
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\MainWindow.baml
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural.g.resources
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural.Properties.Resources.resources
+C:\Users\furkankücük\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\mezar.csproj.GenerateResource.Cache
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\bin\Debug\Vural.exe.config
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\bin\Debug\Vural.exe
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\bin\Debug\Vural.pdb
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\bin\Debug\MySql.Data.dll
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\mezar.csprojResolveAssemblyReference.cache
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\MainWindow.g.cs
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\App.g.cs
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural_MarkupCompile.cache
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural_MarkupCompile.lref
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\MainWindow.baml
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural.g.resources
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural.Properties.Resources.resources
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\mezar.csproj.GenerateResource.Cache
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural.exe
+C:\Users\HARUN\Desktop\harunyaman1\mustafa\Vural\Vural\Vural\obj\Debug\Vural.pdb
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\bin\Debug\Vural.exe.config
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\Vural.exe
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\Vural.pdb
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\bin\Debug\Vural.exe
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\bin\Debug\Vural.pdb
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\bin\Debug\MySql.Data.dll
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\mezar.csprojResolveAssemblyReference.cache
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\MainWindow.g.cs
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\App.g.cs
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\Vural_MarkupCompile.cache
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\Vural_MarkupCompile.lref
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\MainWindow.baml
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\Vural.g.resources
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\Vural.Properties.Resources.resources
+C:\Users\HARUN\Desktop\harunyaman1\harun\harun\harun\harun\obj\Debug\mezar.csproj.GenerateResource.Cache
+C:\Users\HARUN\Desktop\gorselprogramlamaproje\bin\Debug\Vural.exe.config
+C:\Users\HARUN\Desktop\gorselprogramlamaproje\obj\Debug\Vural.exe
+C:\Users\HARUN\Desktop\gorselprogramlamaproje\obj\Debug\Vural.pdb

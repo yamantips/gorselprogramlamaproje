@@ -1,0 +1,15 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\bin\Debug\Vural.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\bin\Debug\Vural.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\bin\Debug\Vural.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\MainWindow.g.cs
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\App.g.cs
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural_MarkupCompile.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural_MarkupCompile.lref
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\MainWindow.baml
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.g.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Vural\Vural\obj\Debug\Vural.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Vural\Vural\bin\Debug\MySql.Data.dll

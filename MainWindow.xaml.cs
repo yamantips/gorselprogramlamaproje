@@ -33,7 +33,7 @@ namespace harun
 
         void olustur()
         {
-
+                      
             MySqlDataAdapter da = new MySqlDataAdapter("SELECT UID FROM tblmezar as m left join tbluye as u on u.UMID=m.MID ORDER BY m.MID", baglanti);
             DataTable dt = new DataTable();
             da.Fill(dt);
@@ -48,7 +48,7 @@ namespace harun
             for (int i = 0; i < dt.Rows.Count; i++)
             {
                 Button btn = new Button();
-                btn.Name = "btn" + (i + 1).ToString();
+                btn.Name = "btn" + (i+1).ToString();
                 btn.Tag = i + 1;
                 if (dt.Rows[i]["UID"].ToString() != "")
                 {
@@ -61,7 +61,7 @@ namespace harun
                 }
                 btn.Width = 100;
                 btn.Height = 50;
-                btn.Content = "Mezar " + (i + 1).ToString();
+                btn.Content = "Mezar " + (i+1).ToString();
                 btn.Click += new RoutedEventHandler(bnt_Click);
                 if (i >= 0 && i <= 10)
                 {
@@ -90,33 +90,33 @@ namespace harun
             string id;
             Button btnn = (Button)sender;
             id = btnn.Tag.ToString();
-
+         
             txtmezar.Text = id;
             //MessageBox.Show("Button pressed " + buttonThatWasClicked.Tag.ToString());
 
-
+          
 
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
+            
+                baglanti.Close();
+                baglanti.Open();
+                string komut = "insert into tbluye(UMID,UAD,UDOGUMTAR,UOLUMTAR) values('" + txtmezar.Text + "', '" + txtad.Text + "', '" + dtp.DisplayDate + "', '" + dtp2.DisplayDate + "')";
+                MySqlCommand kmt = new MySqlCommand(komut, baglanti);
+                kmt.ExecuteNonQuery();
+                olustur();
 
-            baglanti.Close();
-            baglanti.Open();
-            string komut = "insert into tbluye(UMID,UAD,UDOGUMTAR,UOLUMTAR) values('" + txtmezar.Text + "', '" + txtad.Text + "', '" + dtp.DisplayDate + "', '" + dtp2.DisplayDate + "')";
-            MySqlCommand kmt = new MySqlCommand(komut, baglanti);
-            kmt.ExecuteNonQuery();
-            olustur();
 
-
-
+            
         }
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
             baglanti.Close();
             baglanti.Open();
-            string komut = "delete from tbluye where UMID='" + txtmezar.Text + "' ";
+            string komut = "delete from tbluye where UMID='"+txtmezar.Text+"' ";
             MySqlCommand kmt = new MySqlCommand(komut, baglanti);
             kmt.ExecuteNonQuery();
             olustur();
