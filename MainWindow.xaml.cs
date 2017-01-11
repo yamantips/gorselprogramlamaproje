@@ -107,6 +107,7 @@ namespace harun
                 MySqlCommand kmt = new MySqlCommand(komut, baglanti);
                 kmt.ExecuteNonQuery();
                 olustur();
+            button.content = textbox.text.tostring();
 
 
             
